@@ -1,0 +1,11 @@
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.0\ConsoleApp18.exe
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.0\ConsoleApp18.deps.json
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.0\ConsoleApp18.runtimeconfig.json
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.0\ConsoleApp18.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.0\ConsoleApp18.dll
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.0\ConsoleApp18.pdb
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.0\ConsoleApp18.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.0\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.0\ConsoleApp18.AssemblyInfo.cs
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.0\ConsoleApp18.dll
+C:\Users\Professional\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.0\ConsoleApp18.pdb
